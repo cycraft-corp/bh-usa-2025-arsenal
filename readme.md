@@ -1,5 +1,5 @@
 # All Talk, AI Action: Binary Analysis Toolkit MCP Server
-## project layout
+## Project layout
 ```
 
 ```

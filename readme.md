@@ -1,4 +1,4 @@
-# All Talk, AI Action: Binary Analysis Toolkit MCP Server
+![image](https://github.com/user-attachments/assets/5118e4b1-fe3f-4793-9351-cfe348b4c0bd)# All Talk, AI Action: Binary Analysis Toolkit MCP Server
 Vibe reversing toolkits for local hosted LLMs presented in [BlackHat USA 2025 arsenal: All Talk, AI Action: Binary Analysis Toolkit MCP Server](https://www.blackhat.com/us-25/arsenal/schedule/index.html#all-talk-ai-action-binary-analysis-toolkit-mcp-server-45680).
 ## Requisites
 * Hypervisior (VirtualBox/Vmware/HyperV ... etc)
@@ -69,7 +69,7 @@ Install idalib
 To help you better understand how our toolkits work, we’ve provided several labs—ranging from CTF challenges to real-world malware—so you can become more familiar with them.
 
 1. [Solve CTF challenge with MCP](/docs/labs/01.md)
-2. [Examine C2 and behaviour of cobalt strike beacon](/docs/labs/02.md)
+2. [Examine C2 and behaviors of cobalt strike beacon](/docs/labs/02.md)
 3. [Extract shellcode from loader process memory with debugger](/docs/labs/03.md)
 
 ## Difference with orignal MCP projects

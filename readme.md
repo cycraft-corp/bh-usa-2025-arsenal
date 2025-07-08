@@ -11,7 +11,13 @@ Vibe reversing toolkits for local hosted LLMs presented in [BlackHat USA 2025 ar
 
 ## Project layout
 ```
-
+├─BinAnalysisMCPs  # MCP collections
+│  ├─ida-mcp
+│  ├─speakeasy-mcp
+│  └─x64dbg-mcp
+└─docs
+    ├─assets       # picture assets
+    └─labs         # lab documents
 ```
 
 ## Architecture & Usage

@@ -1,0 +1,3 @@
+[submodule "BinAnalysisMCPs"]
+	path = BinAnalysisMCPs
+	url = https://github.com/asef18766/BinAnalysisMCPs.git

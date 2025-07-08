@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5118e4b1-fe3f-4793-9351-cfe348b4c0bd)# All Talk, AI Action: Binary Analysis Toolkit MCP Server
+# All Talk, AI Action: Binary Analysis Toolkit MCP Server
 Vibe reversing toolkits for local hosted LLMs presented in [BlackHat USA 2025 arsenal: All Talk, AI Action: Binary Analysis Toolkit MCP Server](https://www.blackhat.com/us-25/arsenal/schedule/index.html#all-talk-ai-action-binary-analysis-toolkit-mcp-server-45680).
 ## Requisites
 * Hypervisior (VirtualBox/Vmware/HyperV ... etc)

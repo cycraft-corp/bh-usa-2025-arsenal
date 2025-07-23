@@ -27,14 +27,20 @@ Vibe reversing toolkits for local hosted LLMs presented in [BlackHat USA 2025 ar
 ### VM setup
 1. Install python + [uv](https://github.com/astral-sh/uv).
 2. Disable Microsoft Defender or other antivirius.
-3. Disable Windows Security Mandatory ASLR option (for stablizing debugger output).
+    - [defendnot](https://github.com/es3n1n/defendnot)
+       - ```irm https://dnot.sh/ | iex```
+4. Disable Windows Security Mandatory ASLR option (for stablizing debugger output).
     <details>
     <summary>Click to View</summary>
-    
+
+    ```
+    Set-Processmitigation -System -Disable ForceRelocateImages
+   Set-Processmitigation -System -Disable BottomUp, HighEntropy
+    ```
     ![alt text](/docs/assets/disable-aslr.png)
     </detail>
-4. Copy MCPs into VM and install MCPs required packages via `uv`.
-5. Copy samples **to same paths** in VMs.
+5. Copy MCPs into VM and install MCPs required packages via `uv`.
+6. Copy samples **to same paths** in VMs.
 
 #### x64dbg VM
 1. Install [x64dbg](https://github.com/x64dbg/x64dbg) and [x64dbg-automate](https://github.com/dariushoule/x64dbg-automate).

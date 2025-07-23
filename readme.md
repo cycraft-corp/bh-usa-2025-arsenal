@@ -69,8 +69,8 @@ Install idalib
 To help you better understand how our toolkits work, we’ve provided several labs—ranging from CTF challenges to real-world malware—so you can become more familiar with them.
 
 1. [Solve CTF challenge with MCP](/docs/labs/01.md)
-2. [Examine C2 and behaviour of cobalt strike beacon](/docs/labs/02.md)
-3. [Extract shellcode from loader itself](/docs/labs/03.md)
+2. [Examine C2 and behaviors of cobalt strike beacon](/docs/labs/02.md)
+3. [Extract shellcode from loader process memory with debugger](/docs/labs/03.md)
 
 ## Difference with orignal MCP projects
 Compared to previous projects, our work is more focused on supporting local hosted small language models(like `Qwen3-32B`). As a result, it features:

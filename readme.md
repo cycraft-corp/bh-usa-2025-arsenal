@@ -8,6 +8,7 @@ Vibe reversing toolkits for local hosted LLMs presented in [BlackHat USA 2025 ar
     * **idalib** required
 * [Roo Code](https://github.com/RooCodeInc/Roo-Code) + VScode
     * Not required, but recommanded
+    * Recommand version: `3.19.5`
 
 ## Project layout
 ```

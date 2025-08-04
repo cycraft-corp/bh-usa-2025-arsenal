@@ -90,6 +90,8 @@ Compared to previous projects, our work is more focused on supporting local host
 
 For more details, please refer to each MCP project directory.
 
-## Contributors and etc.
-
-Please refer to [CREDITS.md](/CREDITS.md).
+## Contributors
+* [asef18766](https://github.com/asef18766)
+* [oalieno](https://github.com/oalieno)
+* [dange0](https://github.com/dange0)
+* [AuTooong](https://github.com/AuTooong)
